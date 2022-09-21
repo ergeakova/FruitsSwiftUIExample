@@ -42,7 +42,7 @@ struct FruitRowView: View {
     }
 }
 
-// MARK: PREVIEW
+// MARK: - PREVIEW
 struct FruitRowView_Previews: PreviewProvider {
     static var previews: some View {
         FruitRowView(fruit: fruitsData[0])
