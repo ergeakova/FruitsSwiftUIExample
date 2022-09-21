@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C00734CE28DB996E00109D07 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00734CD28DB996E00109D07 /* FruitRowView.swift */; };
 		C01163BF28DB4CD900C9185F /* FuritModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01163BE28DB4CD900C9185F /* FuritModel.swift */; };
 		C01163C228DB4E8000C9185F /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01163C128DB4E8000C9185F /* FruitData.swift */; };
 		C02A2E3F28D7A6BF0027F73E /* FruitsSwiftUIExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02A2E3E28D7A6BF0027F73E /* FruitsSwiftUIExampleApp.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C00734CD28DB996E00109D07 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 		C01163BE28DB4CD900C9185F /* FuritModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuritModel.swift; sourceTree = "<group>"; };
 		C01163C128DB4E8000C9185F /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
 		C02A2E3B28D7A6BF0027F73E /* FruitsSwiftUIExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FruitsSwiftUIExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -102,6 +104,7 @@
 			children = (
 				C0BFC1AD28D7CF0B00AD6621 /* FruitCardView.swift */,
 				C0BFC1AF28D7D67300AD6621 /* StartButtonView.swift */,
+				C00734CD28DB996E00109D07 /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 			files = (
 				C01163C228DB4E8000C9185F /* FruitData.swift in Sources */,
 				C0BFC1AE28D7CF0B00AD6621 /* FruitCardView.swift in Sources */,
+				C00734CE28DB996E00109D07 /* FruitRowView.swift in Sources */,
 				C0BFC1B028D7D67300AD6621 /* StartButtonView.swift in Sources */,
 				C02A2E4128D7A6BF0027F73E /* ContentView.swift in Sources */,
 				C0BFC1B228D7D94E00AD6621 /* OnboardingView.swift in Sources */,
